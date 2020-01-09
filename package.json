@@ -1,0 +1,13 @@
+{
+  "name": "data_forge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@data-forge-plot/render": "^0.0.3",
+    "data-forge": "^1.7.7",
+    "data-forge-fs": "^0.0.7",
+    "data-forge-plot": "^0.6.3",
+    "electron": "^7.1.8"
+  }
+}
